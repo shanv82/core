@@ -61,6 +61,7 @@ public class Main extends Application {
         // configure window
         window.setOnCloseRequest(event -> {
             Platform.exit();
+            
             System.exit(0);
         });
         window.show();

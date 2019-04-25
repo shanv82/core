@@ -45,3 +45,6 @@ coverage.xml
 
 # java files
 target
+.settings/language.settings.xml
+.project
+.cproject
